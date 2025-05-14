@@ -1,9 +1,9 @@
-                                                 **Clone do Spotify — Projeto Full Stack com React e MongoDB**
+                                                 Clone do Spotify — Projeto Full Stack com React e MongoDB
  
 Este projeto é uma aplicação Full Stack inspirada na interface e funcionalidades do Spotify, desenvolvida com foco em usabilidade, responsividade, integração entre frontend e backend, e persistência de dados com MongoDB.
 
-**💡 Objetivo do Projeto
-**
+**💡 Objetivo do Projeto**
+
 Criar uma plataforma musical moderna que simule a experiência do Spotify, integrando uma interface elegante com um backend robusto, permitindo cadastro, exibição e manipulação de músicas armazenadas em banco de dados.
 
 **🛠 Tecnologias e Ferramentas Utilizadas**
@@ -49,13 +49,17 @@ MongoDB local ou Atlas
 🔹 Backend
 
 cd backend
+
 npm install
+
 node server.js
 
 🔹 Frontend
 
 cd frontend
+
 npm install
+
 npm run dev
 
 **Abra no navegador:**
